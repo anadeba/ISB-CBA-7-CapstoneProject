@@ -1,1 +1,23 @@
 
+##################################################
+##################################################
+##################################################
+###############       READ ME     ################
+##################################################
+##################################################
+##################################################
+
+
+
+Prerequisits in order to run the app.
+
+1. The app requires R version 3.3
+2. Following libraries are required to run the app
+
+	shiny,DT,shinythemes,sys,data.table,xgboost,caret,ROSE,randomForest,pROC
+
+3. Unzip the attached file
+4. Set working directory to unzipped folder
+5. Open app.R in RStudio 
+6. click "Run App"
+
